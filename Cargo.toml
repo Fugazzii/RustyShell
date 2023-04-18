@@ -1,0 +1,10 @@
+[package]
+name = "RustyShell"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ilia Sichinava"]
+description = "A simple shell implementation in Rust"
+license = "Apache-2.0"
+repository = "https://github.com/Fugazzii/RustyShell"
+
+[dependencies]
